@@ -18,5 +18,5 @@ This repository contains examples and explanations of various asynchronous progr
 Clone the repository and open the files in your browser to see the examples in action.
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/JavaScript-Async-Examples.git
+git clone https://github.com/anilkumarbanti/Async-JS-Demo.git
 cd JavaScript-Async-Examples
